@@ -1,0 +1,6 @@
+dado um numero inteiro positivo n, o fatorial de n, representado por !n, é tal como !n = (n)*(n-1)*(n-2)*...*(n-k)*(1), sendo k inteiro e positivo também
+
+A função deve retornar apenas números inteiros positivos
+O fatorial de 1 deve retornar 1
+O fatorial de 0 deve retornar 1
+
